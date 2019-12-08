@@ -12,54 +12,49 @@ Fullstack Developer
 
 ## KEY SKILLS
 
-### **Front End**:
-* VueJS, CSS3, HTML5
-* JavaScript, ES6, REST
-* Webpack
-
-### **Back End**:
-* PHP 7.4
-* Golang
-
-### **Databases**:
-* MySQL, MariaDB
-* Postgresql
-
-### **Testing**:
-* TDD, Jest
-* PHPUnit
-* Testify
-
-### **DevOps**:
-* CI/CD, Gitlab
-* Docker
-
-### **VCS**:
-* SVN, Git
-
-### **SDLC**:
-* Design Patterns, OOP
+Front end - HTLM5, CSS3, ES6, VueJS, Vuetify, Bootstrap, Webpack
+Back end - PHP7, Go, NodeJS, REST
+Testing - TDD, PHPUnit, Jest, Testify
+Database - MySQL, MariaDB, Working knowledge of Postgres
+Linux - Ubuntu, Bash/Z-shell, 
+VCS - Git, SVN
+DevOps - Gitlab CI/CD, docker, kubernetes
 
 ------
 
 ## WORK HISTORY
 
+`Feb2013 - now`
+__Hexon B.V., Developer [Hexon](https://hexon.nl)
+
+Projects:
+1) Created several in- and export data connections to- and from external APIs.
+2) Created JavaScript application that, when placed on a customer's website, dynamically loads and displays a stock overview module.
+3) Migrated existing PHP-daemon responsible for processing statistics to Golang.
+
 ### **Hexon B.V., Developer**, 2011 to present | Nijmegen, The Netherlands
-* Created several in- and export data connections to- and from external APIs.
-* Created JavaScript application that, when placed on a customer's website, dynamically loads and displays a stock overview module.
-* Migrated existing PHP-daemon responsible for processing statistics to Golang.
+   * Created several in- and export data connections to- and from external APIs.
+   * Created JavaScript application that, when placed on a customer's website, dynamically loads and displays a stock overview module.
+   * Migrated existing PHP-daemon responsible for processing statistics to Golang.
     **Technical Environment** PHP, JS, Go, HTML, CSS, SVN
 
-### **Royal Netherlands Army, Aspiring Sergent**, 2009 to 2010 | Weert, The Netherlands
-* Training as a sergent for the cavalry of the Royal Netherlands Army.
-* Basic Training
+`2009 - 2010`
+__Royal Netherlands Army, Aspiring Sergent
+   * Training as a sergent for the cavalry of the Royal Netherlands Army.
+   * Basic Training
 
 
 ## EDUCATION
 
-### **Radboud University, Computing Science**, 2011 to 2019 | Nijmegen, The Netherlands
-* Minor Computer Security
-* Minor Artificial Intelligence
+`2011-2019`
+__BASc, Radboud University, Nijmegen
+Computing Science (Security and A.I. minors)
+   * Minor Computer Security
+   * Minor Artificial Intelligence
+
+`2010-2011`
+__Propaedeutics, HAN Hogeschool, Eindhoven
+HBO ICT & Software Engineering
 
 ## ADDITIONAL INFORMATION
 * Dutch language: Native speaker
