@@ -32,20 +32,10 @@ Fullstack Developer
 
 ### **DevOps**:
 * CI/CD, Gitlab
+* Docker
 
 ### **SDLC**:
 * Design Patterns, OOP
-
-
-1. PHP
-1. Javascript / NodeJS
-1. Git / SVN
-1. Laravel
-1. VueJS
-1. MySQL
-1. HTTP/REST
-1. Docker
-1. Kubernetes
 
 ------
 
