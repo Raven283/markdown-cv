@@ -34,6 +34,9 @@ Fullstack Developer
 * CI/CD, Gitlab
 * Docker
 
+### **VCS**:
+* SVN, Git
+
 ### **SDLC**:
 * Design Patterns, OOP
 
