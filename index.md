@@ -12,13 +12,20 @@ Fullstack Developer
 
 ## KEY SKILLS
 
-Front end - HTLM5, CSS3, ES6, VueJS, Vuetify, Bootstrap, Webpack
-Back end - PHP7, Go, NodeJS, REST
-Testing - TDD, PHPUnit, Jest, Testify
-Database - MySQL, MariaDB, Working knowledge of Postgres
-Linux - Ubuntu, Bash/Z-shell, 
-VCS - Git, SVN
-DevOps - Gitlab CI/CD, docker, kubernetes
+#### Front end
+HTLM5, CSS3, ES6, VueJS, Vuetify, Bootstrap, Webpack
+#### Back end
+PHP7, Go, NodeJS, REST
+#### Testing
+TDD, PHPUnit, Jest, Testify
+#### Database
+MySQL, MariaDB, Working knowledge of Postgres
+#### Linux
+Ubuntu, Bash/Z-shell, 
+#### VCS
+Git, SVN
+#### DevOps
+Gitlab CI/CD, docker, kubernetes
 
 ## WORK HISTORY
 
