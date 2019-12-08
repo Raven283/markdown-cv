@@ -20,8 +20,6 @@ Linux - Ubuntu, Bash/Z-shell,
 VCS - Git, SVN
 DevOps - Gitlab CI/CD, docker, kubernetes
 
-------
-
 ## WORK HISTORY
 
 `Feb2013 - now`
