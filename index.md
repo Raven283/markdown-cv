@@ -12,19 +12,19 @@ Fullstack Developer
 
 ## KEY SKILLS
 
-1. **Front end**
+* **Front end**
   HTLM5, CSS3, ES6, VueJS, Vuetify, Bootstrap, Webpack
-1. **Back end**
+* **Back end**
   PHP7, Go, NodeJS, REST
-1. **Testing**
+* **Testing**
   TDD, PHPUnit, Jest, Testify
-1. **Database**
+* **Database**
   MySQL, MariaDB, Working knowledge of Postgres
-1. **Linux**
+* **Linux**
   Ubuntu, Bash/Z-shell, 
-1. **VCS**
+* **VCS**
   Git, SVN
-1. **DevOps**
+* **DevOps**
   Gitlab CI/CD, docker, kubernetes
 
 ## WORK HISTORY
@@ -33,9 +33,9 @@ Fullstack Developer
 __Hexon B.V., Developer__ [Hexon](https://hexon.nl)
 
 Projects:
-1) Created several in- and export data connections to- and from external APIs.
-2) Created JavaScript application that, when placed on a customer's website, dynamically loads and displays a stock overview module.
-3) Migrated existing PHP-daemon responsible for processing statistics to Golang.
+  * Created several in- and export data connections to- and from external APIs.
+  * Created JavaScript application that, when placed on a customer's website, dynamically loads and displays a stock overview module.
+  * Migrated existing PHP-daemon responsible for processing statistics to Golang.
 
 `2009 - 2010`
 __Royal Netherlands Army, Aspiring Sergent__
