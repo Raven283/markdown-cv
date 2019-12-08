@@ -1,91 +1,79 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Matjah Sonneveld's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Matjah Sonneveld
+Fullstack Developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="matjah@matjah.eu">matjah@matjah.eu</a>
+| <a href="httsp://www.matjah.eu">My personal website</a>
 </div>
 
+## KEY SKILLS
 
-## Currently
+### **Front End**:
+* VueJS, CSS3, HTML5
+* JavaScript, ES6, REST
+* Webpack
 
-Standing on the shoulders of giants
+### **Back End**:
+* PHP 7.4
+* Golang
 
-### Specialized in
+### **Databases**:
+* MySQL, MariaDB
+* Postgresql
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### **Testing**:
+* TDD, Jest
+* PHPUnit
+* Testify
 
+### **DevOps**:
+* CI/CD, Gitlab
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+### **SDLC**:
+* Design Patterns, OOP
 
 
+1. PHP
+1. Javascript / NodeJS
+1. Git / SVN
+1. Laravel
+1. VueJS
+1. MySQL
+1. HTTP/REST
+1. Docker
+1. Kubernetes
 
-## Awards
+------
 
-`2012`
-President, *Royal Society*, London, UK
+## WORK HISTORY
 
-Associate, *French Academy of Science*, Paris, France
+### **Hexon B.V., Developer**, 2011 to present | Nijmegen, The Netherlands
+* Created several in- and export data connections to- and from external APIs.
+* Created JavaScript application that, when placed on a customer's website, dynamically loads and displays a stock overview module.
+* Migrated existing PHP-daemon responsible for processing statistics to Golang.
+    **Technical Environment** PHP, JS, Go, HTML, CSS, SVN
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### **Royal Netherlands Army, Aspiring Sergent**, 2009 to 2010 | Weert, The Netherlands
+* Training as a sergent for the cavalry of the Royal Netherlands Army.
+* Basic Training
 
 
-## Occupation
+## EDUCATION
 
-`1600`
-__Royal Mint__, London
+### **Radboud University, Computing Science**, 2011 to 2019 | Nijmegen, The Netherlands
+* Minor Computer Security
+* Minor Artificial Intelligence
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+## ADDITIONAL INFORMATION
+* Dutch language: Native speaker
+* English Language: Fluent proficiency
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2019 -->
 
 
